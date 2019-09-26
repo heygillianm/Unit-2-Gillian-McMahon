@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Facts
+comment0.text=\r\n\ Demonstraction\ of\ string\ concatenation\ operator\ and\ automatic\r\n\ converstion\ of\ an\ integer\ to\ a\ string.\r\n\ \r\n\ @author\ George\ \r\n\ @version\ 1\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2
